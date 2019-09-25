@@ -41,7 +41,7 @@ defined( 'CBXPLGRESTART_BASE_NAME' ) or define( 'CBXPLGRESTART_BASE_NAME', plugi
 defined( 'CBXPLGRESTART_ROOT_PATH' ) or define( 'CBXPLGRESTART_ROOT_PATH', plugin_dir_path( __FILE__ ) );
 defined( 'CBXPLGRESTART_ROOT_URL' ) or define( 'CBXPLGRESTART_ROOT_URL', plugin_dir_url( __FILE__ ) );
 
-if(!class_exists('class_exists')){
+if(!class_exists('CBXPluginRestart')){
 	/**
 	 * Restart plugin class
 	 *
