@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CBX Plugin Restart(Deactivate and Activate)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-25 18:23+0000\n"
+"POT-Creation-Date: 2019-09-26 07:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -15,16 +15,42 @@ msgstr ""
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.3.0; wp-5.2.3"
 
-#: cbxplgrestart.php:75
-msgid "Restart"
+#: cbxplgrestart.php:78
+msgid "Deactivate & then Activate"
+msgstr ""
+
+#: cbxplgrestart.php:78
+msgid "ReStart"
+msgstr ""
+
+#: cbxplgrestart.php:86
+msgid "Are you absolutely sure you want to deactivate and delete this plugin?"
+msgstr ""
+
+#: cbxplgrestart.php:86
+msgid "Deactivate & then Delete"
+msgstr ""
+
+#: cbxplgrestart.php:86
+msgid "DD"
+msgstr ""
+
+#: cbxplgrestart.php:94
+msgid "Activate & then Deactivate"
+msgstr ""
+
+#: cbxplgrestart.php:94
+msgid "ReSleep"
 msgstr ""
 
 #. Name of the plugin
-msgid "CBX Plugin Restart (Deactivate and Activate)"
+msgid "CBX Plugin Restart, ReSleep and DD"
 msgstr ""
 
 #. Description of the plugin
-msgid "Single click plugin restart - deactivate and activate"
+msgid ""
+"Single click plugin restart(Deactivate and Activate), resleep(Activate and "
+"Deactivate) and DD(Deactivate and Delete)"
 msgstr ""
 
 #. URI of the plugin
